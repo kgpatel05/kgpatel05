@@ -1,20 +1,26 @@
-# Hi there!
-I'm Krish Patel. I am interested in machine learning, advanced algorithms and their applications.
+# Krish Patel
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img align="right" src="./assets/ascii-portrait.svg" width="300" alt="ASCII art portrait of Krish Patel" />
 
-<!--
-**kgpatel05/kgpatel05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in **machine learning, algorithms, and computational neuroscience**—especially how models learn useful representations from complex data, and how we can understand what those representations actually capture.
 
-Here are some ideas to get you started:
+My research explores **neural representations of speech**, including how acoustic models and experimental baselines shape conclusions about phonetic encoding. I'm also interested in **model compression and parameter-efficient representations**, with an emphasis on preserving model behavior while reducing complexity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy work that combines mathematical reasoning, careful experiments, and practical implementation.
+
+### Areas of interest
+
+- **Machine learning:** representation learning, model efficiency, and interpretability
+- **Computational neuroscience:** neural encoding, speech perception, and auditory processing
+- **Algorithms:** optimization, graph algorithms, and computational problem solving
+
+### Tools and languages
+
+**Languages:** Python · C++ · C · Java · R · JavaScript · Swift  
+**ML and scientific computing:** PyTorch · scikit-learn · NumPy · pandas · Matplotlib · TensorFlow
+
+### About this portrait
+
+The image on the right is a crop of an ASCII-art portrait made entirely from text characters. The [complete ASCII version](./assets/ascii-portrait.txt) is also available in this repository.
+
+<!-- Add links to publications, a CV, LinkedIn, or selected projects here when ready. -->
